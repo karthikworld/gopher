@@ -66,7 +66,7 @@ func main() {
 	//
 	p.Talk()
 
-	a := new(Android)
+	a := new(Android) 
 	a.Talk()
 
 	fmt.Println((r.area())) 
